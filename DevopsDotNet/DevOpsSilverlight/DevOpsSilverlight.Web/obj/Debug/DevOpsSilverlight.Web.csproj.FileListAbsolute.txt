@@ -1,0 +1,6 @@
+C:\data\Projects\DevopsDotNet\DevOpsSilverlight\DevOpsSilverlight.Web\bin\DevOpsSilverlight.Web.dll.config
+C:\data\Projects\DevopsDotNet\DevOpsSilverlight\DevOpsSilverlight.Web\bin\DevOpsSilverlight.Web.dll
+C:\data\Projects\DevopsDotNet\DevOpsSilverlight\DevOpsSilverlight.Web\bin\DevOpsSilverlight.Web.pdb
+C:\data\Projects\DevopsDotNet\DevOpsSilverlight\DevOpsSilverlight.Web\obj\Debug\DevOpsSilverlight.Web.dll
+C:\data\Projects\DevopsDotNet\DevOpsSilverlight\DevOpsSilverlight.Web\obj\Debug\DevOpsSilverlight.Web.pdb
+C:\data\Projects\DevopsDotNet\DevOpsSilverlight\DevOpsSilverlight.Web\obj\Debug\DevOpsSilverlight.Web.csprojResolveAssemblyReference.cache
