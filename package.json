@@ -1,0 +1,23 @@
+{
+  "name": "sandeep-npmgit",
+  "version": "1.0.0",
+  "description": "npm git integration sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skazure/DevopsDotNet.git"
+  },
+  "keywords": [
+    "git-npm",
+    "integration"
+  ],
+  "author": "sandeepkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skazure/DevopsDotNet/issues"
+  },
+  "homepage": "https://github.com/skazure/DevopsDotNet#readme"
+}
